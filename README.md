@@ -7,7 +7,5 @@ This website is a demonstration of some of the projects under my portforlio, whi
 ## Links
 [Link to Webpage](https://kevinjr1998.github.io/Professional_Materials/)
 
-[link to LinkedIn](www.linkedin.com/in/kevin-ryner)
-
 ## Contact 
 You can contact me via kevinryner@yahoo.co.uk or https://github.com/kevinjr1998/
